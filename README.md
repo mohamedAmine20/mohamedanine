@@ -20,9 +20,3 @@ I specialize in **HTML**, **CSS**, **JavaScript**, and also work with **Python**
 
 ## 📊 GitHub Stats
 ![Mohamed Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
-
-## 🐍 GitHub Contribution Snake
-![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
-
----
-⭐️ From [Mohamed Amine](#)
